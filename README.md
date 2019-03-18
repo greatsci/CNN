@@ -1,2 +1,2 @@
 # first
-try it
+% try it
