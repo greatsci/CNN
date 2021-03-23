@@ -2,7 +2,3 @@
 #
 Hand written number recognition.
 
-
-
-
-
